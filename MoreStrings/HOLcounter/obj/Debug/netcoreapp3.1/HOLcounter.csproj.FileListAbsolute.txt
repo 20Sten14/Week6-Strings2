@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\bin\Debug\netcoreapp3.1\HOLcounter.exe
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\bin\Debug\netcoreapp3.1\HOLcounter.deps.json
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\bin\Debug\netcoreapp3.1\HOLcounter.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\bin\Debug\netcoreapp3.1\HOLcounter.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\bin\Debug\netcoreapp3.1\HOLcounter.dll
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\bin\Debug\netcoreapp3.1\HOLcounter.pdb
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\obj\Debug\netcoreapp3.1\HOLcounter.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\obj\Debug\netcoreapp3.1\HOLcounter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\obj\Debug\netcoreapp3.1\HOLcounter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\obj\Debug\netcoreapp3.1\HOLcounter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\obj\Debug\netcoreapp3.1\HOLcounter.dll
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\obj\Debug\netcoreapp3.1\HOLcounter.pdb
+C:\Users\opilane\source\repos\Titpe21\MoreStrings\HOLcounter\obj\Debug\netcoreapp3.1\HOLcounter.genruntimeconfig.cache
